@@ -3,7 +3,7 @@
 ### I'm Abhijeet Vishwakarma, a Cloud & DevOps DevOps Enthusiast!
 <br/>
 
-## 👩‍💻 About Me:
+## About Me:
 - 🔭 I’m currently working on Cloud & DevOps Technologies
 - 🌱 I’m currently learning Kubernetes & Docker
 - 👯 I’m looking to collaborate With DevOps Integrators
