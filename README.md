@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning Kubernetes & Docker
 - 👯 I’m looking to collaborate With DevOps Integrators
 - 🤔 I’m looking for help In Learning Hacking & Cyber Security
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - Other Areas Of Interest: 
     - Listening Music
